@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root[data-theme="light"]{
+    --bg-color:#030212;
+}
+body{
+    background-color: #030212;
+}
